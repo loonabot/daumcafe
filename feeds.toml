@@ -1,5 +1,5 @@
 [notice]
-title = "다음카페 ─ 이달의 소녀 공식팬 카페 ─ 공지사항"
+title = "다음카페 ─ 이달의 소녀 공식팬카페 ─ 공지사항"
 url = "https://m.cafe.daum.net/loonatheworld/F5dA"
 entrySelector = "#slideArticleList > ul li"
 titleSelector = "span[class='txt_detail']"
@@ -8,7 +8,7 @@ imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
 
 [offline]
-title = "다음카페 ─ 이달의 소녀 공식팬 카페 ─ 공방공지"
+title = "다음카페 ─ 이달의 소녀 공식팬카페 ─ 공방공지"
 url = "https://m.cafe.daum.net/loonatheworld/F6Fq"
 entrySelector = "#slideArticleList > ul li"
 titleSelector = "span[class='txt_detail']"
@@ -17,7 +17,7 @@ imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
 
 [schedule]
-title = "다음카페 ─ 이달의 소녀 공식팬 카페 ─ 스케줄방"
+title = "다음카페 ─ 이달의 소녀 공식팬카페 ─ 스케줄방"
 url = "https://m.cafe.daum.net/loonatheworld/F5dC"
 entrySelector = "#slideArticleList > ul li"
 titleSelector = "span[class='txt_detail']"
@@ -26,7 +26,7 @@ imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
 
 [official]
-title = "다음카페 ─ 이달의 소녀 공식팬 카페 ─ 공식자료"
+title = "다음카페 ─ 이달의 소녀 공식팬카페 ─ 공식자료"
 url = "https://m.cafe.daum.net/loonatheworld/F5dG"
 entrySelector = "#slideArticleList > ul li"
 titleSelector = "span[class='txt_detail']"
@@ -35,7 +35,7 @@ imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
 
 [diary]
-title = "다음카페 ─ 이달의 소녀 공식팬 카페 ─ 소녀 Diary"
+title = "다음카페 ─ 이달의 소녀 공식팬카페 ─ 소녀 Diary"
 url = "https://m.cafe.daum.net/loonatheworld/F5dr"
 entrySelector = "#slideArticleList > ul li"
 titleSelector = "span[class='txt_detail']"
@@ -44,7 +44,7 @@ imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
 
 [loonatv]
-title = "다음카페 ─ 이달의 소녀 공식팬 카페 ─ LOOΠΔ TV"
+title = "다음카페 ─ 이달의 소녀 공식팬카페 ─ LOOΠΔ TV"
 url = "https://m.cafe.daum.net/loonatheworld/GoAp"
 entrySelector = "#slideArticleList > ul li"
 titleSelector = "span[class='txt_detail']"
@@ -53,7 +53,7 @@ imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
 
 [loonalog]
-title = "다음카페 ─ 이달의 소녀 공식팬 카페 ─ LOOΠΔ LOG"
+title = "다음카페 ─ 이달의 소녀 공식팬카페 ─ LOOΠΔ LOG"
 url = "https://m.cafe.daum.net/loonatheworld/IGsg"
 entrySelector = "#slideArticleList > ul li"
 titleSelector = "span[class='txt_detail']"
@@ -62,7 +62,7 @@ imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
 
 [loonatvprequel]
-title = "다음카페 ─ 이달의 소녀 공식팬 카페 ─ LOOΠΔ TV Prequel"
+title = "다음카페 ─ 이달의 소녀 공식팬카페 ─ LOOΠΔ TV Prequel"
 url = "https://m.cafe.daum.net/loonatheworld/HZtw"
 entrySelector = "#slideArticleList > ul li"
 titleSelector = "span[class='txt_detail']"
@@ -71,7 +71,7 @@ imageSelector = "a img[class='article_thumb']"
 contentSelector = "span[class='created_at']"
 
 [toorbit]
-title = "다음카페 ─ 이달의 소녀 공식팬 카페 ─ To. Orbit"
+title = "다음카페 ─ 이달의 소녀 공식팬카페 ─ To. Orbit"
 url = "https://m.cafe.daum.net/loonatheworld/F5df"
 entrySelector = "#slideArticleList > ul li"
 titleSelector = "span[class='txt_detail']"
@@ -81,7 +81,7 @@ contentSelector = "span[class='created_at']"
 
 
 [orbit3]
-title = "다음카페 ─ 이달의 소녀 공식팬 카페 ─ Orbit 3.0"
+title = "다음카페 ─ 이달의 소녀 공식팬카페 ─ Orbit 3.0"
 url = "https://m.cafe.daum.net/loonatheworld/IKgl"
 entrySelector = "#slideArticleList > ul li"
 titleSelector = "span[class='txt_detail']"
