@@ -9,3 +9,4 @@ https://loonabot.github.io/daumcafe/all.xml
 - https://loonabot.github.io/daumcafe/loonalog.xml
 - https://loonabot.github.io/daumcafe/loonatvprequel.xml
 - https://loonabot.github.io/daumcafe/toorbit.xml
+- https://loonabot.github.io/daumcafe/orbit3.xml
