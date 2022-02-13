@@ -1,0 +1,80 @@
+[notice]
+title = "공지사항"
+url = "https://m.cafe.daum.net/loonatheworld/F5dA"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[offline]
+title = "공방공지"
+url = "https://m.cafe.daum.net/loonatheworld/F6Fq"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[schedule]
+title = "스케줄방"
+url = "https://m.cafe.daum.net/loonatheworld/F5dC"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[official]
+title = "공식자료"
+url = "https://m.cafe.daum.net/loonatheworld/F5dG"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[diary]
+title = "소녀 Diary"
+url = "https://m.cafe.daum.net/loonatheworld/F5dr"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[loonatv]
+title = "LOOΠΔ TV"
+url = "https://m.cafe.daum.net/loonatheworld/GoAp"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[loonalog]
+title = "LOOΠΔ LOG"
+url = "https://m.cafe.daum.net/loonatheworld/IGsg"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[loonatvprequel]
+title = "LOOΠΔ TV Prequel"
+url = "https://m.cafe.daum.net/loonatheworld/HZtw"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
+
+[toorbit]
+title = "To. Orbit"
+url = "https://m.cafe.daum.net/loonatheworld/F5df"
+entrySelector = "#slideArticleList > ul li"
+titleSelector = "span[class='txt_detail']"
+linkSelector = "a[class='link_cafe make-list-uri #article_list']"
+imageSelector = "a img[class='article_thumb']"
+contentSelector = "span[class='created_at']"
