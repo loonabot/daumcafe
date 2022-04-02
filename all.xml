@@ -4,9 +4,16 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 07:14:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 08:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[이달의 소녀] ‘퀸덤2’ 출연 응원 이벤트 안내 (다음카페 ─ 이달의 소녀 공식팬카페 ─ 공지사항)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dA/335</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/335</guid>
+            <pubDate>Sat, 02 Apr 2022 08:17:36 GMT</pubDate>
+            <content:encoded><![CDATA[17분 전]]></content:encoded>
+        </item>
         <item>
             <title><![CDATA[[이달의 소녀] 이달의 소녀(LOOΠΔ) 공식 팬클럽 ‘Orbit’ 4기 모집 안내 (다음카페 ─ 이달의 소녀 공식팬카페 ─ 공지사항)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dA/334</link>
@@ -149,13 +156,6 @@
             <pubDate>Sun, 13 Feb 2022 23:10:39 GMT</pubDate>
             <content:encoded><![CDATA[21.07.23]]></content:encoded>
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=https://t1.daumcdn.net/cafeattach/1WxST/a76621d3d3eedbfedbca23b50c51f602621889a0" length="0" type="image//thumb/C52x52/"/>
-        </item>
-        <item>
-            <title><![CDATA[안녕하세요. 블록베리크리에이티브입니다. (다음카페 ─ 이달의 소녀 공식팬카페 ─ 공지사항)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dA/315</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dA/315</guid>
-            <pubDate>Sun, 13 Feb 2022 23:10:39 GMT</pubDate>
-            <content:encoded><![CDATA[21.07.21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] 220328 Mnet 퀸덤2 현장 평가단 참여 안내 (다음카페 ─ 이달의 소녀 공식팬카페 ─ 공방공지)]]></title>
