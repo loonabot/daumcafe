@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.daum.net/loonatheworld/F5dC</id>
     <title>다음카페 ─ 이달의 소녀 공식팬카페 ─ 스케줄방</title>
-    <updated>2022-04-27T04:41:46.438Z</updated>
+    <updated>2022-04-27T05:27:41.605Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.daum.net/loonatheworld/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이달의 소녀] 2022년 5월 스케줄]]></title>
+        <id>https://m.cafe.daum.net/loonatheworld/F5dC/64</id>
+        <link href="https://m.cafe.daum.net/loonatheworld/F5dC/64"/>
+        <updated>2022-04-27T05:26:26.792Z</updated>
+        <content type="html"><![CDATA[15분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이달의 소녀] 2022년 4월 스케줄]]></title>
         <id>https://m.cafe.daum.net/loonatheworld/F5dC/63</id>
@@ -137,12 +144,5 @@
         <link href="https://m.cafe.daum.net/loonatheworld/F5dC/45"/>
         <updated>2022-02-13T23:10:49.932Z</updated>
         <content type="html"><![CDATA[20.09.25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[이달의 소녀] 2020년 9월 스케줄 (20200929 ver)]]></title>
-        <id>https://m.cafe.daum.net/loonatheworld/F5dC/44</id>
-        <link href="https://m.cafe.daum.net/loonatheworld/F5dC/44"/>
-        <updated>2022-02-13T23:10:49.932Z</updated>
-        <content type="html"><![CDATA[20.08.31]]></content>
     </entry>
 </feed>

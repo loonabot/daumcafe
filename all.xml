@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 04:41:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 05:27:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -304,6 +304,13 @@
             <enclosure url="https://img1.daumcdn.net/thumb/C52x52/?fname=http://cfile275.uf.daum.net/image/99E5DC3F5FD8224C109343" length="0" type="image//thumb/C52x52/"/>
         </item>
         <item>
+            <title><![CDATA[[이달의 소녀] 2022년 5월 스케줄 (다음카페 ─ 이달의 소녀 공식팬카페 ─ 스케줄방)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/F5dC/64</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/F5dC/64</guid>
+            <pubDate>Wed, 27 Apr 2022 05:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[15분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[이달의 소녀] 2022년 4월 스케줄 (다음카페 ─ 이달의 소녀 공식팬카페 ─ 스케줄방)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/F5dC/63</link>
             <guid>https://m.cafe.daum.net/loonatheworld/F5dC/63</guid>
@@ -435,13 +442,6 @@
             <guid>https://m.cafe.daum.net/loonatheworld/F5dC/45</guid>
             <pubDate>Sun, 13 Feb 2022 23:10:49 GMT</pubDate>
             <content:encoded><![CDATA[20.09.25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[이달의 소녀] 2020년 9월 스케줄 (20200929 ver) (다음카페 ─ 이달의 소녀 공식팬카페 ─ 스케줄방)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/F5dC/44</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/F5dC/44</guid>
-            <pubDate>Sun, 13 Feb 2022 23:10:49 GMT</pubDate>
-            <content:encoded><![CDATA[20.08.31]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[이달의 소녀] Olivia Hye (이달의 소녀) "봄이 되어줄게 (prod.공기남)" Live Clip (다음카페 ─ 이달의 소녀 공식팬카페 ─ 공식자료)]]></title>
@@ -896,7 +896,7 @@
             <link>https://m.cafe.daum.net/loonatheworld/IGsg/41</link>
             <guid>https://m.cafe.daum.net/loonatheworld/IGsg/41</guid>
             <pubDate>Wed, 27 Apr 2022 03:41:32 GMT</pubDate>
-            <content:encoded><![CDATA[1시간 41분 전]]></content:encoded>
+            <content:encoded><![CDATA[2시간 26분 전]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[달로그 #38 (LOONA LOG #38) 고원 #38 (Go Won #38) (다음카페 ─ 이달의 소녀 공식팬카페 ─ LOOΠΔ LOG)]]></title>
