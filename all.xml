@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 01:20:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 03:41:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -892,6 +892,13 @@
             <content:encoded><![CDATA[21.08.27]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[달로그 #39 (LOONA LOG #39) 여진 #39 (YeoJin #39) (다음카페 ─ 이달의 소녀 공식팬카페 ─ LOOΠΔ LOG)]]></title>
+            <link>https://m.cafe.daum.net/loonatheworld/IGsg/41</link>
+            <guid>https://m.cafe.daum.net/loonatheworld/IGsg/41</guid>
+            <pubDate>Wed, 27 Apr 2022 03:41:32 GMT</pubDate>
+            <content:encoded><![CDATA[41분 전]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[달로그 #38 (LOONA LOG #38) 고원 #38 (Go Won #38) (다음카페 ─ 이달의 소녀 공식팬카페 ─ LOOΠΔ LOG)]]></title>
             <link>https://m.cafe.daum.net/loonatheworld/IGsg/40</link>
             <guid>https://m.cafe.daum.net/loonatheworld/IGsg/40</guid>
@@ -1023,13 +1030,6 @@
             <guid>https://m.cafe.daum.net/loonatheworld/IGsg/22</guid>
             <pubDate>Sun, 13 Feb 2022 23:11:10 GMT</pubDate>
             <content:encoded><![CDATA[20.09.05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[달로그 #19(LOONA LOG #19) 김립 #19 (Kim Lip #19) (다음카페 ─ 이달의 소녀 공식팬카페 ─ LOOΠΔ LOG)]]></title>
-            <link>https://m.cafe.daum.net/loonatheworld/IGsg/21</link>
-            <guid>https://m.cafe.daum.net/loonatheworld/IGsg/21</guid>
-            <pubDate>Sun, 13 Feb 2022 23:11:10 GMT</pubDate>
-            <content:encoded><![CDATA[20.08.30]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이달의소녀탐정16 #ijk (LOONA TV Prequel16 #ijk) (다음카페 ─ 이달의 소녀 공식팬카페 ─ LOOΠΔ TV Prequel)]]></title>

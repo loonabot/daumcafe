@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://m.cafe.daum.net/loonatheworld/IGsg</id>
     <title>다음카페 ─ 이달의 소녀 공식팬카페 ─ LOOΠΔ LOG</title>
-    <updated>2022-04-27T01:20:26.383Z</updated>
+    <updated>2022-04-27T03:41:49.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://m.cafe.daum.net/loonatheworld/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[달로그 #39 (LOONA LOG #39) 여진 #39 (YeoJin #39)]]></title>
+        <id>https://m.cafe.daum.net/loonatheworld/IGsg/41</id>
+        <link href="https://m.cafe.daum.net/loonatheworld/IGsg/41"/>
+        <updated>2022-04-27T03:41:32.903Z</updated>
+        <content type="html"><![CDATA[41분 전]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[달로그 #38 (LOONA LOG #38) 고원 #38 (Go Won #38)]]></title>
         <id>https://m.cafe.daum.net/loonatheworld/IGsg/40</id>
@@ -137,12 +144,5 @@
         <link href="https://m.cafe.daum.net/loonatheworld/IGsg/22"/>
         <updated>2022-02-13T23:11:10.111Z</updated>
         <content type="html"><![CDATA[20.09.05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달로그 #19(LOONA LOG #19) 김립 #19 (Kim Lip #19)]]></title>
-        <id>https://m.cafe.daum.net/loonatheworld/IGsg/21</id>
-        <link href="https://m.cafe.daum.net/loonatheworld/IGsg/21"/>
-        <updated>2022-02-13T23:11:10.112Z</updated>
-        <content type="html"><![CDATA[20.08.30]]></content>
     </entry>
 </feed>
